@@ -3,7 +3,7 @@ DropBoxFs for PyFileSystem
 
 Use your DropBox account as a FileSystem with [pyfilesystem][1]
 
-Author : [julien@bouquillon.com][2] ( revolunet )
+Author : [julien@revolunet.com][2]
 
 **example**
 
@@ -33,7 +33,7 @@ Author : [julien@bouquillon.com][2] ( revolunet )
  * the [PyFileSystem google group][4]
 
   [1]: http://code.google.com/p/pyfilesystem/
-  [2]: mailto:julien@bouquillon.com
+  [2]: mailto:julien@revolunet.com
   [3]: filebrowser.demo.revolunet.com
   [4]: http://groups.google.com/group/pyfilesystem-discussion/topics
 
