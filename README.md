@@ -20,7 +20,7 @@ Author : [julien@bouquillon.com][2] ( revolunet )
     mydropbox = DropBoxFS(**dropBoxFsConfig)
     # list a dir
     mydropbox.listdir('/')
-    # read to a file
+    # read a file
     print mydropbox.open('README.txt','r').read()
     # write to a file
     mydropbox.open('writeTest.txt', 'w').write('hello, world')
@@ -29,8 +29,8 @@ Author : [julien@bouquillon.com][2] ( revolunet )
 
 **Links**
 
- * our [FileBrowser with PyFS backend][2] demo
- * the [PyFileSystem google group][3]
+ * our [FileBrowser with PyFS backend][3] demo
+ * the [PyFileSystem google group][4]
 
   [1]: http://code.google.com/p/pyfilesystem/
   [2]: mailto:julien@bouquillon.com
