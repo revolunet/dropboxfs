@@ -34,7 +34,7 @@ Author : [julien@revolunet.com][2]
 
   [1]: http://code.google.com/p/pyfilesystem/
   [2]: mailto:julien@revolunet.com
-  [3]: filebrowser.demo.revolunet.com
+  [3]: http://filebrowser.demo.revolunet.com
   [4]: http://groups.google.com/group/pyfilesystem-discussion/topics
 
 
