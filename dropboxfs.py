@@ -1,9 +1,9 @@
 """
-fs.httpapifs
+fs.dropboxfs
 =========
-pyfilesystem wrapper for DropBox API
+PyFilesystem wrapper for DropBox API
 
-julien@bouquillon.com
+julien@bouquillon.com - http://github.com/revolunet/dropboxfs
 
 sample config :  {
              'path':'/samples'                      # all operations chrooted to this folder
